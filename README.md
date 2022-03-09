@@ -1,6 +1,7 @@
 # odin-recipes
 
-Create a website to display recipes and show off/practice HTML skills
+Create a website to display recipes and show off/practice HTML skills.
+
 Skills that will be displayed through this project:
 1. Proper HTML formatting
 2. Display knowledge of how to use lists
